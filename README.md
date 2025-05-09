@@ -214,3 +214,5 @@
 - **Justificativa:** Não iniciadas  
 - **Data:** -  
 - **Link:** -  
+
+Obs: No vídeo comentei sobre 2 problemas, 1 foi citado, o outro é a organização ordenada das aulas, a 10 e 11 ficou após a 1.
